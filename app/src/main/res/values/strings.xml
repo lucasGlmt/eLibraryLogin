@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">eLibraryLogin</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="login">Se connecter</string>
+    <string name="password">Mot de passe</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="male">Homme</string>
+    <string name="female">Femme</string>
+    <string name="accept_risks">J\'accepte les risques</string>
+    <string name="attempt_login">Tentatives de connexions : %1$s</string>
+    <string name="error">Erreur</string>
+    <string name="bad_password">Mauvais mot de passe</string>
+    <string name="bad_username">Mauvais nom d\'utilisateur</string>
+    <string name="welcome">Bienvenue</string>
+</resources>

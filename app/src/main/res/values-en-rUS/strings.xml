@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eLibraryLogin</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="accept_risks">I accept riks</string>
+    <string name="attempt_login">Remaining try : %1$s</string>
+    <string name="error">Error</string>
+    <string name="bad_password">Bad password</string>
+    <string name="bad_username">Bas username</string>
+    <string name="welcome">Welcome</string>
+</resources>
